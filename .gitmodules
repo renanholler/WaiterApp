@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/renanholler/WaiterApp-API-TS
+[submodule "front"]
+	path = front
+	url = https://github.com/renanholler/WaiterApp-FE-REACT
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/renanholler/WAITERAPP-app-react-native
